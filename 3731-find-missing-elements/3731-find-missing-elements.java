@@ -4,7 +4,7 @@ class Solution {
         Arrays.sort(nums);
         int min = nums[0];
         int max = nums[nums.length - 1];
-        for(int i = min; i <= max; i++)
+        for(int i = min ; i < max ; i++)
         {
             boolean found = false;
             for(int num : nums)
