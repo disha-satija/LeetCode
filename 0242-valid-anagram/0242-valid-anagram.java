@@ -6,6 +6,7 @@ class Solution {
         }
         HashMap<Character, Integer> hm1 = new HashMap<>();
         HashMap<Character, Integer> hm2 = new HashMap<>();
+
         for(int i = 0; i < s.length(); i++)
         {
             char ch = s.charAt(i);
@@ -18,6 +19,7 @@ class Solution {
                 hm1.put(ch, 1);
             }
         }
+
         for(int i = 0; i < t.length(); i++)
         {
             char ch = t.charAt(i);
@@ -30,10 +32,11 @@ class Solution {
                 hm2.put(ch, 1);
             }
         }
-       if(hm1.equals(hm2))
-       {
-        return true;
-       }
-       return false;
+
+        if(hm1.equals(hm2))
+        {
+            return true;
+        }
+        return false;
     }
 }
