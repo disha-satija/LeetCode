@@ -13,6 +13,7 @@ class Solution {
         ListNode curr = head;
         ListNode prev = null;
         ListNode next = null;
+
         while(curr != null)
         {
             next = curr.next;
@@ -20,6 +21,7 @@ class Solution {
             prev = curr;
             curr = next;
         }
+
         return prev;
     }
 }
