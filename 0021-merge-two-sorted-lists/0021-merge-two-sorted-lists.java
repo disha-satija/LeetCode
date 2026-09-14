@@ -21,26 +21,28 @@ class Solution {
             if(temp1.val <= temp2.val)
             {
                 curr.next = temp1;
+                curr = curr.next;
                 temp1 = temp1.next;
             }
-            else
+            else 
             {
                 curr.next = temp2;
+                curr = curr.next;
                 temp2 = temp2.next;
             }
-
-            curr = curr.next;
         }
-
         if(temp1 != null)
         {
             curr.next = temp1;
+            curr = curr.next;
+            temp1 = temp1.next;
         }
-        else
+        else if(temp2 != null)
         {
             curr.next = temp2;
+            curr = curr.next;
+            temp2 = temp2.next;
         }
-
         return dummy.next;
     }
 }
