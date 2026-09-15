@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/disha-satija/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/disha-satija/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3731-find-missing-elements](https://github.com/disha-satija/LeetCode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/disha-satija/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/disha-satija/LeetCode/tree/master/0002-add-two-numbers) |
 | [0836-rectangle-overlap](https://github.com/disha-satija/LeetCode/tree/master/0836-rectangle-overlap) |
+| [3875-construct-uniform-parity-array-i](https://github.com/disha-satija/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Geometry
 |  |
 | ------- |
