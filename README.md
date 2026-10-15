@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/disha-satija/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/disha-satija/LeetCode/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/disha-satija/LeetCode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/disha-satija/LeetCode/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/disha-satija/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
