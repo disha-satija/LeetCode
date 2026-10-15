@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/disha-satija/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/disha-satija/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/disha-satija/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/disha-satija/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/disha-satija/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/disha-satija/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/disha-satija/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/disha-satija/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/disha-satija/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/disha-satija/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/disha-satija/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/disha-satija/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3731-find-missing-elements](https://github.com/disha-satija/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/disha-satija/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/disha-satija/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/disha-satija/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/disha-satija/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/disha-satija/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3731-find-missing-elements](https://github.com/disha-satija/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/disha-satija/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/disha-satija/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/disha-satija/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/disha-satija/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/disha-satija/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/disha-satija/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/disha-satija/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/disha-satija/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/disha-satija/LeetCode/tree/master/0338-counting-bits) |
 ## Pigeonhole Principle
@@ -203,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/disha-satija/LeetCode/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/disha-satija/LeetCode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/disha-satija/LeetCode/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/disha-satija/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/disha-satija/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
