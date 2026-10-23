@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/disha-satija/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/disha-satija/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/disha-satija/LeetCode/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/disha-satija/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/disha-satija/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/disha-satija/LeetCode/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/disha-satija/LeetCode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/disha-satija/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0836-rectangle-overlap](https://github.com/disha-satija/LeetCode/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/disha-satija/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/disha-satija/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
