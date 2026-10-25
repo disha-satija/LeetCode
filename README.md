@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/disha-satija/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/disha-satija/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/disha-satija/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/disha-satija/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/disha-satija/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/disha-satija/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/disha-satija/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/disha-satija/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/disha-satija/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/disha-satija/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Union-Find
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/disha-satija/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/disha-satija/LeetCode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/disha-satija/LeetCode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/disha-satija/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/disha-satija/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0836-rectangle-overlap](https://github.com/disha-satija/LeetCode/tree/master/0836-rectangle-overlap) |
