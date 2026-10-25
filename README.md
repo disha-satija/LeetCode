@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/disha-satija/LeetCode/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/disha-satija/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [2390-removing-stars-from-a-string](https://github.com/disha-satija/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/disha-satija/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/disha-satija/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/disha-satija/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/disha-satija/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0836-rectangle-overlap](https://github.com/disha-satija/LeetCode/tree/master/0836-rectangle-overlap) |
+| [2409-count-days-spent-together](https://github.com/disha-satija/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/disha-satija/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/disha-satija/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Geometry
