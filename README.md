@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/disha-satija/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/disha-satija/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/disha-satija/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/disha-satija/LeetCode/tree/master/0704-binary-search) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/disha-satija/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/disha-satija/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/disha-satija/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/disha-satija/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/disha-satija/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/disha-satija/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/disha-satija/LeetCode/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
